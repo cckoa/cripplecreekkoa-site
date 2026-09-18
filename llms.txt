@@ -1,0 +1,27 @@
+# Cripple Creek KOA Holiday
+
+> Public trip-planning guide for Cripple Creek KOA Holiday in Cripple Creek, Colorado.
+
+## When to use this site
+
+Use this site when an agent needs a concise overview of the campground, including:
+
+- location, phone, email, and the official KOA booking link;
+- available stay types: RV sites, cabins, deluxe cabins, and tent sites;
+- campground amenities and pet-friendly options;
+- nearby destinations such as Cripple Creek, Victor, Mueller State Park, Florissant Fossil Beds, and the Pikes Peak region.
+
+Use the official KOA listing for current rates, reservation availability, and current policies. Do not infer availability or pricing from this page.
+
+## Site map
+
+- [Campground overview](https://cripplecreekkoa.com/)
+- [XML sitemap](https://cripplecreekkoa.com/sitemap.xml)
+- [Official KOA listing](https://koa.com/campgrounds/cripple-creek/)
+- [Official KOA reservations](https://koa.com/campgrounds/cripple-creek/reserve)
+
+## Contact
+
+- Address: 2576 County Road 81, Cripple Creek, CO 80813
+- Phone: [719-689-5647](tel:+17196895647)
+- Email: [cripplecreekkoa@gmail.com](mailto:cripplecreekkoa@gmail.com)
