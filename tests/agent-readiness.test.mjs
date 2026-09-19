@@ -35,6 +35,8 @@ test('homepage exposes brand and agent-resource metadata without changing the vi
   assert.match(page, /rel="alternate" type="text\/plain" href="\/llms\.txt"/);
   assert.match(page, /"@type": "WebSite"/);
   assert.match(page, /"alternateName": \["Cripple Creek KOA", "Cripple Creek campground"\]/);
+  const description = page.match(/<meta name="description" content="([^"]+)"/)[1];
+  assert.ok(description.length >= 120 && description.length <= 160, `description length was ${description.length}`);
 });
 
 test('homepage organization schema includes address and contact point', async () => {
